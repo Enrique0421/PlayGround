@@ -1,5 +1,4 @@
-public class AnimalsCalloutsTest 
-{
+public class AnimalsCalloutsTest {
 // @IstTest static void TestGetCallout ()
     {
       //  StaticResuerceCalloutMock Mock = New StaticResourceCalloutMock();
